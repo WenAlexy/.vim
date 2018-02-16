@@ -1,4 +1,4 @@
 # vimrc
 Own vimrc configuration file
 ## Download
-https://github.com/WenAlexy/vimrc.git
+https://codeload.github.com/WenAlexy/vimrc/zip/master
