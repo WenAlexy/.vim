@@ -1,5 +1,5 @@
 # vimrc
 Own vimrc configuration file
 
-#Download
+##Download
 https://github.com/WenAlexy/vimrc.git
